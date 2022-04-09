@@ -1,0 +1,157 @@
+body {
+  background: #EEEEEE;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  color: white;
+}
+
+video {
+  width: 100%;
+}
+
+.video-wrapper {
+  width: 100%;
+  max-width: 700px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.video-wrapper:hover .controls {
+  transform: translateY(0%);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  position: absolute;
+  bottom: 30px;
+  padding: 14px;
+  width: 100%;
+  max-width: 550px;
+  flex-wrap: wrap;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  transform: translateY(150%);
+  transition: all 0.3s ease-in-out;
+}
+
+.actions button {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.actions button i {
+  background-color: none;
+  color: white;
+  font-size: 30px;
+  font-style: normal;
+}
+
+input[type="range"] {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  height: 4px;
+  width: 350px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  cursor: pointer;
+  height: 6px;
+}
+
+input[type="range"]::-moz-range-progress {
+  background: white;
+}
+
+.velocity {
+  appearance: none;
+  background: none;
+  color: white;
+  outline: none;
+  border: none;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+}
+
+.mute-btn {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.mute-btn i {
+  background-color: none;
+  color: white;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.full-screen {
+  display: inline;
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.full-screen i {
+  background-color: none;
+  color: white;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.mb-3 {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.end-video-button {
+  width: 0.1px;
+}
+
+.end-video-button Button {
+  right: 390px;
+  text-align: center;
+}
+
+.connect-button {
+  width: 0px;
+  z-index: 1;
+}
+
+.connect-button Button {
+  align-items: 'center';
+  display: 'flex';
+  justify-content: 'center';
+}
+
+.logout-button {
+  width: 0.1px;
+}
+
+.logout-button Button {
+  top: 250px;
+  left: 300px;
+  width: 100px;
+}
