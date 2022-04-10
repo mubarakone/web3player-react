@@ -1,3 +1,5 @@
+<img width="250" alt="web3player logo 2" src="https://user-images.githubusercontent.com/52806204/162639147-d808ba73-71d8-4a69-a013-10ea7a3988e2.PNG">
+
 ### `BETA VERSION (a lot of work needs to be done)`
 ## Interactive demo available: 
 ### https://mubarakone.github.io/web3player-react/
