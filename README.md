@@ -1,4 +1,4 @@
-### BETA VERSION (a lot of work needs to be done)
+### `BETA VERSION (a lot of work needs to be done)`
 ## Interactive demo available: 
 ### https://mubarakone.github.io/web3player-react/
 ### `PRICE:` 0.0001 ETH per second
