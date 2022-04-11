@@ -4,6 +4,8 @@
 ## Interactive demo available: 
 ### https://mubarakone.github.io/web3player-react/
 ### `PRICE:` 0.0001 ETH per second
+![image](https://user-images.githubusercontent.com/52806204/162789377-caedc56f-bfcd-4b2b-ac0a-bd092d25ac75.png)
+![image](https://user-images.githubusercontent.com/52806204/162789403-48be36d4-434c-4d16-9950-d30b543cbeb2.png)
 ### `Instructions:`
 #### 1. Connect your wallet.
 #### 2. Watch video.
