@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/web3player-react/static/css/main.c602297f.css",
-    "main.js": "/web3player-react/static/js/main.5289857b.js",
+    "main.js": "/web3player-react/static/js/main.cf7e4e65.js",
     "static/js/27.44758bb6.chunk.js": "/web3player-react/static/js/27.44758bb6.chunk.js",
     "index.html": "/web3player-react/index.html"
   },
   "entrypoints": [
     "static/css/main.c602297f.css",
-    "static/js/main.5289857b.js"
+    "static/js/main.cf7e4e65.js"
   ]
 }
