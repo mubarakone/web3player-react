@@ -117,7 +117,7 @@ const useVideoPlayer = (videoElement) => {
   }
 
    async function TransferEth() {
-    await switchNetwork("0x3")
+    await switchNetwork("0x5")
     const timer = setTimeout(() => {
       fetch()
       console.log("watched total of " + watchedTime + " seconds")
